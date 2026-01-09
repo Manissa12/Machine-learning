@@ -79,12 +79,15 @@ Machine-learning/
 
 **📋 Objectif** : Stratégies de trading Bitcoin avec réduction de dimensionnalité
 
-**🔍 Compétences développées** :
+**� Démo en ligne** : [**Accéder à la plateforme sur Hugging Face**](https://huggingface.co/spaces/BinkyTwin/bitcoin-trading-signals)
+
+**�🔍 Compétences développées** :
 - Analyse de données de trading (données minute Bitstamp)
 - Réduction de dimensionnalité (PCA, t-SNE)
 - Modèles d'ensemble (Random Forest, AdaBoost, Gradient Boosting)
 - Stratégies de trading algorithmique
 - Développement de dashboard interactif
+- Déploiement sur Hugging Face Spaces
 
 **📊 Dataset** : Bitstamp Bitcoin Minutes Data (Kaggle)
 
